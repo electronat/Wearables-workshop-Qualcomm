@@ -1,7 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 #include <avr/power.h>
 
-#define PIN 0
+#define PIN 1
 #define NUMPIXELS 3
 
 // Parameter 1 = number of pixels in strip
